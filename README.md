@@ -95,7 +95,7 @@ def grangers_causation_matrix(data, variables, test='ssr_chi2test', verbose=Fals
 Project is: _finished_. Our team was the winner of the IAS Hackaton 2020.
 
 ## Contact
-Created by me with my teammates [Vignesh Vishwanathan](https://github.com/vigviswa) and [Shriya Agrawal](https://github.com/shriyaagarwal).
+Created by me with my teammates [Vignesh Vishwanathan](https://github.com/vigviswa), Saniya Tandon and [Shriya Agrawal](https://github.com/shriyaagarwal).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on 
