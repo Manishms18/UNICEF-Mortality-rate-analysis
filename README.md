@@ -31,7 +31,7 @@ Major steps involved to solve problems were as follow :
 
 ## Screenshots
 
-![Example screenshot](./images/Image1.png)
+![Example screenshot](./images/Image1.jpg)
 ![Example screenshot](./images/Image2.png)
 ![Example screenshot](./images/Image3.png)
 ![Example screenshot](./images/Image4.png)
