@@ -22,7 +22,7 @@ Questions :
 Major steps involved to solve problems were as follow : 
 
 * STEP: 1 - Data Cleaning and Scrapping
-* STEP: 2 - Granger Casuality Test
+* STEP: 2 - Granger Causality Test
 * STEP: 3 - Trend Series Analysis 
 * STEP: 4 - K-Means Clustering
 * STEP: 5 - Multiclass Classification ML 
